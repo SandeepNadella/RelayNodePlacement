@@ -65,6 +65,10 @@ We found an **MST** that connects all the sensor nodes in the graph using the re
 7. The returned result the solution of BCRP-MLCC solution.
 8. If we don&#39;t find any such **k-MST** , we return arbitrary terminal point as solution.
 
+## Jupyter Notebook Run
+
+![](https://github.com/SandeepNadella/RelayNodePlacement/blob/master/RelayNodePlacementJupyterNotebookRun.png)
+
 ## References
 
 1. _Mazumder, A., Zhou, C., Das, A., &amp; Sen, A. (2016). Budget constrained relay node placement problem for maximal &#39;connectedness&#39;._ In MILCOM 2016 - 2016 IEEE Military Communications Conference (pp. 849-854). [7795435] Institute of Electrical and Electronics Engineers Inc.. [https://doi.org/10.1109/MILCOM.2016.7795435](https://doi.org/10.1109/MILCOM.2016.7795435)
